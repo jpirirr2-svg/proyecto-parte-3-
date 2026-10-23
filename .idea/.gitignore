@@ -1,0 +1,10 @@
+# Default ignored files
+/../../modulo-kernel-procmon./.idea/shelf/
+/../../modulo-kernel-procmon./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../modulo-kernel-procmon./.idea/httpRequests/
+# Ignored default folder with query files
+/../../modulo-kernel-procmon./.idea/queries/
+# Datasource local storage ignored files
+/../../modulo-kernel-procmon./.idea/dataSources/
+/../../modulo-kernel-procmon./.idea/dataSources.local.xml
